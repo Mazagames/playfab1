@@ -1,12 +1,12 @@
 ﻿{
-	"version": 1635951223,
+	"version": 1635958192,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/inn-sheet0.png",
-		"images/login-sheet0.png",
+		"images/signinimage-sheet0.png",
 		"images/oout-sheet0.png",
 		"images/btnplay-sheet0.png",
 		"images/back-sheet0.png",
@@ -50,7 +50,7 @@
 		"images/background-sheet0.png",
 		"images/loading-sheet0.png",
 		"images/loadnigtext-sheet0.png",
-		"images/register-sheet0.png",
+		"images/signup-sheet0.png",
 		"images/l_positionbg-sheet0.png",
 		"images/l_background-sheet0.png",
 		"images/bg.png",
